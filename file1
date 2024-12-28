@@ -1,0 +1,9 @@
+echo 1
+
+loadFile ./file2
+
+echo 3
+
+loadFile ./fileDir/file3
+
+loadFile ./file2
